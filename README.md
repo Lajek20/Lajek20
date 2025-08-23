@@ -26,10 +26,9 @@ I enjoy building clean, accessible, and user-friendly applications. Lately, I’
 ## Projects
 Here are a few projects I’ve worked on (more in my repos):  
 
-- [Project 1](link) – short, simple explanation  
-- [Project 2](link) – what it does and why it matters  
-- [Project 3](link) – a fun or challenging project you learned from  
-
+- **GreenRoutes** – Stress-reducing bike route planner using Dijkstra’s algorithm overlaid on green spaces in Copenhagen.
+- **Car Mechanic Management System** – Website & inventory management tool for an auto service center with a secure login.
+- **CommunicationApp** – Curbing reading/writing challenges for elderly by integrating Text-to-Speech and ChatGPT for assisted messaging. 
 ---
 
 ## Let’s connect
