@@ -16,8 +16,8 @@ I enjoy building clean, accessible, and user-friendly applications. Lately, I’
 ---
 
 ## Some tools I use
-- Languages: JavaScript, TypeScript, Python, Java, C  
-- Frontend: React, HTML, CSS, Tailwind  
+- Languages: JavaScript, Python, Java, C  
+- Frontend: React, HTML, CSS  
 - Design: Figma 
 - Other tools: Git, GitHub, VS Code, Postman  
 
