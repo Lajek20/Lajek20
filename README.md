@@ -33,6 +33,6 @@ Here are a few projects I’ve worked on (more in my repos):
 
 ## Let’s connect
 - LinkedIn: https://www.linkedin.com/in/lojain-ajek-97b428212/  
-- Email: logain.aj@gmail.com 
+- Email: logainajek@gmail.com 
 
 Thanks for stopping by 
